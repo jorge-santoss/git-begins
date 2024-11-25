@@ -1,0 +1,6 @@
+# cloner un repository
+git clone 
+
+git add .
+git commit -m "ajout fichier"
+git push
